@@ -1,0 +1,15 @@
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/EvaluationTests.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/EvaluationTests.AssemblyInfoInputs.cache
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/EvaluationTests.AssemblyInfo.cs
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/EvaluationTests.csproj.CoreCompileInputs.cache
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/EvaluationTests.sourcelink.json
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/bin/Debug/net9.0/EvaluationTests
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/bin/Debug/net9.0/EvaluationTests.deps.json
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/bin/Debug/net9.0/EvaluationTests.runtimeconfig.json
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/bin/Debug/net9.0/EvaluationTests.dll
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/bin/Debug/net9.0/EvaluationTests.pdb
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/EvaluationTests.dll
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/refint/EvaluationTests.dll
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/EvaluationTests.pdb
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/EvaluationTests.genruntimeconfig.cache
+/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/obj/Debug/net9.0/ref/EvaluationTests.dll

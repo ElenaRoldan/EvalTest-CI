@@ -684,6 +684,16 @@
             "related": ".xml"
           }
         }
+      },
+      "EvaluationTests/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/EvaluationTests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EvaluationTests.dll": {}
+        }
       }
     }
   },
@@ -1643,10 +1653,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "EvaluationTests/1.0.0": {
+      "type": "project",
+      "path": "../EvaluationTests/EvaluationTests.csproj",
+      "msbuildProject": "../EvaluationTests/EvaluationTests.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "EvaluationTests >= 1.0.0",
       "MSTest >= 3.6.4",
       "Microsoft.NET.Test.Sdk >= 17.12.0"
     ]
@@ -1675,7 +1691,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/EvaluationTests.csproj": {
+              "projectPath": "/home/user/DFS/EvalTest&CI/EvalTest-CI/EvaluationTests/EvaluationTests.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
